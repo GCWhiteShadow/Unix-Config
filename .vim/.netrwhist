@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/gcwhiteshadow/HW/np_project1_0416036/.git'
+let g:netrw_dirhist_2='/home/gcwhiteshadow/.vim/bundle/vim-airline/autoload'
+let g:netrw_dirhist_3='/etc/update-motd.d'
+let g:netrw_dirhist_4='/usr/lib/update-notifier'
+let g:netrw_dirhist_5='/home/gcwhiteshadow/haocompiler'
+let g:netrw_dirhist_6='/home/gcwhiteshadow/compiler/project1/output'
+let g:netrw_dirhist_7='/home/gcwhiteshadow/compiler/project1/testcase'
+let g:netrw_dirhist_8='/usr/lib/ubuntu-release-upgrader'
