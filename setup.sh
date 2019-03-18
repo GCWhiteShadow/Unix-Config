@@ -14,5 +14,6 @@ mkdir -p ~/.vim/bundle
 cp -R Unix-Config/Vundle.vim ~/.vim/bundle/Vundle.vim
 cp Unix-Config/.vimrc ~/
 vim +PluginInstall +qall
-echo "Please execute VundleInstall under vim"
+echo ""
+echo "All finished. Enjoy your new fresh system :)"
 
