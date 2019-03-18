@@ -10,7 +10,8 @@ echo ""
 
 
 echo "Setting up Vim"
-cp -R Unix-Config/Vundle.vim ~/
+cp -R Unix-Config/Vundle.vim ~/.vim/bundle/Vundle.vim
 cp Unix-Config/.vimrc ~/
+vim +PluginInstall +qall
 echo "Please execute VundleInstall under vim"
 
