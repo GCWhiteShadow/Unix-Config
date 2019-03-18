@@ -1,4 +1,5 @@
-echo "Installing some necessary program, password required"
+echo "***** Installing some necessary program, password required *****"
+sudo apt-get update
 sudo apt-get install tmux git vim
 
 echo "Setting up tmux"
